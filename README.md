@@ -45,8 +45,4 @@ The main goal is to identify **seasonal usage patterns** and provide **actionabl
 
 ---
 
-## 🖼 Dashboard Preview
-*(Add your screenshots here — save them as `.png` and upload to repo)*  
 
-```markdown
-![Dashboard Screenshot](Dashboard_Screenshot.png)
